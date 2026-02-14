@@ -10,7 +10,7 @@ Building polished user experiences while automating deployment & infrastructure 
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **HeartInsights**
-- 🌱 Learning **DevOps, Cloud & CI/CD**
+- 🌱 Learning **MERN Stack, DevOps,Docker**
 - 💬 Ask me about **React, Node, Git, Docker**
 - 📫 Reach me at: **pranavddabade@gmail.com**
 - 🌐 Live Demo: **https://heartinsights.vercel.app**
