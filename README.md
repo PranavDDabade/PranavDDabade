@@ -1,77 +1,68 @@
-<h1 align="center">Hi 👋, I'm Pranav Dabade</h1>
-<h3 align="center">DevOps-Focused Frontend Engineer | MERN Developer</h3>
-
-<p align="center">
-Building polished user experiences while automating deployment & infrastructure 🚀
-</p>
+# Hi 👋, I'm Pranav Dabade
+**MERN Stack Developer | Frontend Engineer**  
+Building responsive user interfaces and scalable full-stack web applications 🚀
 
 ---
 
 ## 👨‍💻 About Me
-
 - 🔭 Currently working on **HeartInsights**
-- 🌱 Learning **MERN Stack, DevOps,Docker**
-- 💬 Ask me about **React, Node, Git, Docker**
+- 🌱 Learning **MERN Stack** and improving **JavaScript fundamentals**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Git**
 - 📫 Reach me at: **pranavddabade@gmail.com**
-- 🌐 Live Demo: **https://heartinsights.vercel.app**
+- 🌐 Live Demo: https://heartinsights.vercel.app
 
-I work at the intersection of **Frontend Development + DevOps**, creating scalable web applications and deploying them using modern CI/CD and cloud practices.
+I enjoy creating modern web applications that combine clean UI with efficient backend logic.  
+My focus is on writing maintainable code, reusable components, and delivering smooth user experiences.
 
 ---
 
 ## 🛠 Skills & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,git,github,githubactions,docker,aws,gcp,terraform,kubernetes,linux,bash,postgres,vscode" />
-</p>
+### Frontend
+- HTML5
+- CSS3 / Tailwind CSS / Bootstrap
+- JavaScript (ES6+)
+- React.js
+- Responsive Design
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- Authentication & Authorization
+
+### Database
+- MongoDB
+- Mongoose
+
+### Tools
+- Git & GitHub
+- VS Code
+- Postman / Thunder Client
 
 ---
 
 ## ⭐ Top Projects
 
 ### ❤️ HeartInsights
-- Live Demo: https://heartinsights.vercel.app  
-- MERN + ML based Heart Disease Prediction System  
-- PDF Reports, Authentication, Bulk CSV Prediction  
-
-### 🌐 Pranav Portfolio
-- React based DevOps Portfolio  
-- Showcases Cloud, CI/CD & Infrastructure skills  
-
-### ⚛ React Practice
-- UI experiments and reusable component patterns  
+**Live Demo:** https://heartinsights.vercel.app  
+- MERN + Machine Learning based Heart Disease Prediction System  
+- Authentication & Secure User Access  
+- PDF Reports & Bulk CSV Prediction  
+- Clean UI with responsive design  
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PranavDDabade&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavDDabade&layout=compact&theme=tokyonight" />
-</p>
+<!-- You can add GitHub stats cards here later -->
 
 ---
 
 ## 🔗 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/pranav-dabade-016179284 ">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-</a>
-
-<a href="https://instagram.com/praanav__d25">
-<img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" />
-</a>
-
-<a href="mailto:pranavddabade@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
-</a>
-</p>
+- LinkedIn: https://www.linkedin.com/in/pranav-dabade-016179284
+- GitHub: https://github.com/PranavDDabade
 
 ---
 
 ## ⚡ Fun Fact
-I enjoy turning ideas into **production-ready applications** and automating deployments like a DevOps engineer 💡
+I enjoy turning ideas into interactive web applications and continuously improving my frontend and full-stack skills 💡
